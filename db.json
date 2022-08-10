@@ -2,7 +2,10 @@
   "posts": [
     {
       "id": 1,
-      "title": "Form is succesfully sent",
+      "title": "Form is successfully sent, thank you!"
     }
-  ]
- }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
