@@ -2,13 +2,13 @@
   "posts": [
     {
       "id": 1,
-      "title": "Form is succesfully sent"
-      "error": false
+      "title": "Form is succesfully sent",
+      "error": false,
     },
     {
       "id": 2,
-      "title": "Form is succesfully sent"
-       "error": true
+      "title": "Form is succesfully sent",
+      "error": true,
     }
   ]
  }
