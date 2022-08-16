@@ -67,13 +67,11 @@
       "price": 1
     },
     {
-      "id": 11,
+      "id": 12,
       "title": "Кит-кат",
       "category": 2,
       "price": 2
     }
-
-
   ],
   "profile": {
     "name": "typicode"
