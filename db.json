@@ -21,15 +21,58 @@
     {
       "id": 4,
       "title": "Шоппер",
-      "category": 4,
+      "category": 3,
       "price": 30
     },
     {
       "id": 5,
       "title": "Сэндвич",
-      "category": 3,
+      "category": 2,
       "price": 6
+    },
+    {
+      "id": 6,
+      "title": "Флэт",
+      "category": 0,
+      "price": 4.5
+    },
+    {
+      "id": 7,
+      "title": "Двойной капучино",
+      "category": 0,
+      "price": 4.5
+    },
+    {
+      "id": 8,
+      "title": "Двойной капучино",
+      "category": 1,
+      "price": 4
+    },
+    {
+      "id": 9,
+      "title": "Флэт",
+      "category": 1,
+      "price": 4
+    },
+    {
+      "id": 10,
+      "title": "Колечко",
+      "category": 3,
+      "price": 4
+    },
+    {
+      "id": 11,
+      "title": "Сникерс",
+      "category": 2,
+      "price": 1
+    },
+    {
+      "id": 11,
+      "title": "Кит-кат",
+      "category": 2,
+      "price": 2
     }
+
 
   ],
   "profile": {
